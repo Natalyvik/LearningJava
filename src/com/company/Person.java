@@ -23,7 +23,7 @@ public class Person {
     }
 
 
-    private String test = "TEST";
+    private String test = "TEST1";
     //геттер  дает значение скрытой переменной
     public String getTest(){return test; }
 
